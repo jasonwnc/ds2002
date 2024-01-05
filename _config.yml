@@ -11,6 +11,9 @@ nav_external_links:
     url: https://canvas.its.virginia.edu/courses/95426
   - title: Google Colab
     url: https://colab.research.google.com/
+- title: DS2002 MySql Instance
+    url: https://database.ds2002.org/
+    
 
 callouts_level: quiet # or loud
 callouts:
