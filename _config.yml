@@ -1,8 +1,37 @@
-title: DS2002 Data Science Systems
-description: 
+title: DS2002
+description: Data Science Systems
 theme: just-the-docs
+color_scheme: light
 
-url: https://just-the-docs.github.io
+url: https://jasonwnc.github.io/ds2002/
+heading_anchors: true
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+nav_external_links:
+  - title: Canvas for DS2002
+    url: https://canvas.its.virginia.edu/courses/95426
+  - title: Google Colab
+    url: https://colab.research.google.com/
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    color: red
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+enable_copy_code_button: true
+
+footer_content: "Copyright &copy; 2024 Jason Williamson. Distributed by an <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license.</a>"
