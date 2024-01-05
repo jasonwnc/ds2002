@@ -1,35 +1,38 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# DS2002 Programming for Data Science
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+**University of Virginia School of Data Science**{: .fs-6 .fw-300 }
 
-More specifically, the created site:
+<img src="./images/4-1-model.png" alt="UVA School of Data Science | 4+1 Model" style="width:30%;margin-left:1rem;margin-bottom:1rem;" align="right" />
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+By definition, "data science" must make meaning out of ever-growing pools of data. But the researcher quickly discovers that the hand examination of any data, while useful for granular analysis, is never adequate for large samples. To produce data science at scale, researchers must make effective use of workflows, pipelines, and processes to ingest, parse, and transform data with tools and automation.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+This course will center on exposing students to contemporary pipelines for data analysis through a series of steadily escalating use cases. The course will begin with simple local database construction and evolve to cloud-based infrastructure such as AWS or Google Cloud. This progression will include learning a variety of systems for data collection, orchestration, transformation, consumption, and others as appropriate.Links to an external site.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## Course Details for Spring 2023:
 
-To get started with creating a site, simply:
+### Class Meetings
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+- Times: Monday / Wednesday 2:00 AM to 2:50 AM Friday is Lab Day
+- Location: [Dell 105](https://atlas.fm.virginia.edu/portal/apps/webappviewer/index.html?id=c54aefa568904e018601a0447eb722bf&marker=-78.51000841727834%2C38.03486767781649%2C%2C%2C%2C&markertemplate=%7B%22title%22%3A%22Dell%20Building%20%231%20%22%2C%22longitude%22%3A-78.51000841727834%2C%22latitude%22%3A38.03486767781649%2C%22isIncludeShareUrl%22%3Atrue%7D&level=18)
+- Dates: August 23, 2023 — December 4, 2023
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+### Instructor
 
-----
+- Name: Jason Williamson
+- Email: [jpw4ma@virginia.edu](mailto:jpw4map@virginia.edu)
+- Office: [3 Elliewood Ave, Charlottesville, VA 22903 --Above Ragged Mtn](https://www.google.com/maps/place/UVA+School+of+Data+Science/@38.0356302,-78.5031408,17z/data=!3m1!4b1!4m6!3m5!1s0x89b387edba9272d3:0xee426c4650d17e63!8m2!3d38.0356302!4d-78.5005659!16s%2Fg%2F11fqxxbqg_?entry=ttu)
+- Office Hours: Mondays 12:00 PM to 2:00 PM. Other times by appointment.
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+### Teaching Assistant
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+- Name: Matthew Samuel
+- Email: [uar6nw@virginia.edu](mailto:uar6nw@virginia.edu)
+- Office Hours: 1:00-2:30pm Mondays in Dell 1, at the table near the video wall.
+
+This syllabus is subject to change without announcement.
