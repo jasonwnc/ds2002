@@ -26,7 +26,7 @@ nav_order: 2
       <td> </td>
       <td>Student Survey</td>
       <td>
-        <a href="https://virginia.az1.qualtrics.com/jfe/form/SV_cYodaLzeQlC0Xvo" target="_new"><img src="./images/writing.png" /> <b>Take the Survey</b></a>
+        <a href="https://virginia.az1.qualtrics.com/jfe/form/SV_4SH5mbhMVMYJDJY" target="_new"><img src="./images/writing.png" /> <b>Take the Survey</b></a>
       </td>
     </tr>
     <tr>
