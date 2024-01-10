@@ -36,6 +36,9 @@ nav_order: 2
       <td>
         <img src="./images/video.png" /> <a href="https://uvadatapoints.castos.com/episodes/4-1-model-of-data-science" target="_new">Listen: 4+1 Model of Data Science</a> <br />
       </td>
+       <td>
+              <img src="./images/video.png" /> <a href="https://www.youtube.com/watch?v=inN8seMm7UI" target="_new">Getting Started with Google Colaboratory</a> <br />
+      </td>
     </tr>
     <tr>
       <td>02</td>
@@ -45,9 +48,7 @@ nav_order: 2
       <img src="./images/book.png" /> <a href="https://blog.pragmaticengineer.com/what-is-data-engineering/" target="_new">What is Data Engineering</a> <br />        
       </td>
 
-      <td>
-              <img src="./images/video.png" /> <a href="https://www.youtube.com/watch?v=inN8seMm7UI" target="_new">Getting Started with Google Colaboratory</a> <br />
-      </td>
+
     </tr>
     <tr>
       <td>03</td>
