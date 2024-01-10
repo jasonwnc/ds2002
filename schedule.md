@@ -46,7 +46,7 @@ nav_order: 2
       <td>1/22-1/26</td>
       <td>Course introduction: Data Engineering Basics & Getting Set Up</td>
       <td>
-      <img src="./images/book.png" /> <a href="https://blog.pragmaticengineer.com/what-is-data-engineering/" target="_new">What is Data Engineering</a> <br />        
+        <img src="./images/book.png" /> <a href="https://blog.pragmaticengineer.com/what-is-data-engineering/" target="_new">What is Data Engineering</a> <br />        
       </td>
     </tr>
     <tr>
@@ -54,7 +54,6 @@ nav_order: 2
       <td>1/29 - 2/02</td>
       <td>Intro to Databases, Design of Relational Databases</td>
       <td>
-
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
     </tr>
