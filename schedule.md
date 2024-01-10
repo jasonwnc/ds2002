@@ -55,28 +55,25 @@ nav_order: 2
       <td>Intro to Databases, Design of Relational Databases</td>
       <td rowspan=2>
 
-        <img src="./images/writing.png" /> <a href="https://canvas.its.virginia.edu/courses/78571/quizzes/104029/" target="_new">Weekly Quiz</a> <br />
+        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
     </tr>
     <tr>
       <td>04</td>
       <td>2/5 - 2/9</td>
-      <td></td>
+      <td>More SQL</td>
     </tr>
     <tr>
       <td>05</td>
       <td>2/19 - 2/23</td>
-      <td class="noclass" colspan=2>No Class - Labor Day</td>
+      <td >Python and Data Wrangling</td>
     </tr>
     <tr>
       <td>06</td>
       <td>2/26 - 3/01</td>
-      <td>Python: Introduction</td>
+      <td>ETL</td>
       <td>
-        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch01.html" target="_new">[PDA] Chapter 1: Preliminaries</a> <br />
-        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-in-a/9781098113544/ch01.html" target="_new">[PN] Chapter 1: Introduction to Python</a> <br />
-        <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/78571/assignments/376091" target="_new">Homework</a> <br />
-        <img src="./images/writing.png" /> <a href="https://canvas.its.virginia.edu/courses/78571/quizzes/109097">Weekly Quiz</a> <br />
+
       </td>
     </tr>
     <tr>
@@ -87,12 +84,9 @@ nav_order: 2
     <tr>
       <td>08</td>
       <td>3/11 - 3/15</td>
-      <td>Python: Pandas</td>
+      <td>APIs</td>
       <td>
-        <img src="./images/video.png" /> <a href="https://www.youtube.com/watch?v=KHoEbRH46Zk" target="_new">NumPy vs. Pandas</a> <br />
-        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch05.html" target="_new">[PDA] Chapter 5: Getting Started with pandas</a> <br />
-        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
-        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
+
       </td>
     </tr>
     <tr>
