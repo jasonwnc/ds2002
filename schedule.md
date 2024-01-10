@@ -63,18 +63,30 @@ nav_order: 2
       <td>04</td>
       <td>2/5 - 2/9</td>
       <td>More SQL</td>
+      <td>
+        <img src="./images/book.png" /> <a href="https://blog.pragmaticengineer.com/what-is-data-engineering/" target="_new">What is Data Engineering</a> <br />     
+        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
+        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
+      </td>
     </tr>
     <tr>
       <td>05</td>
       <td>2/19 - 2/23</td>
       <td >Python and Data Wrangling</td>
+      <td>
+        <img src="./images/book.png" /> <a href="https://blog.pragmaticengineer.com/what-is-data-engineering/" target="_new">What is Data Engineering</a> <br />     
+        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
+        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
+      </td>
     </tr>
     <tr>
       <td>06</td>
       <td>2/26 - 3/01</td>
       <td>ETL</td>
       <td>
-
+        <img src="./images/book.png" /> <a href="https://blog.pragmaticengineer.com/what-is-data-engineering/" target="_new">What is Data Engineering</a> <br />     
+        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
+        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
     </tr>
     <tr>
@@ -87,7 +99,9 @@ nav_order: 2
       <td>3/11 - 3/15</td>
       <td>APIs</td>
       <td>
-
+        <img src="./images/book.png" /> <a href="https://blog.pragmaticengineer.com/what-is-data-engineering/" target="_new">What is Data Engineering</a> <br />     
+        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
+        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
     </tr>
     <tr>
