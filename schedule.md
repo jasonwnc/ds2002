@@ -48,8 +48,6 @@ nav_order: 2
       <td>
       <img src="./images/book.png" /> <a href="https://blog.pragmaticengineer.com/what-is-data-engineering/" target="_new">What is Data Engineering</a> <br />        
       </td>
-
-
     </tr>
     <tr>
       <td>03</td>
