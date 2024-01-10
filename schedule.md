@@ -42,7 +42,7 @@ nav_order: 2
       <td>1/22-1/26</td>
       <td>Course introduction: Data Engineering Basics & Getting Set Up</td>
       <td>
-      <img src="./images/book.png" /> <a href="[https://canvas.its.virginia.edu/courses/78571/files/2755956?module_item_id=844323" target=](https://blog.pragmaticengineer.com/what-is-data-engineering/)"_new">What is Data Engineering</a> <br />        
+      <img src="./images/book.png" /> <a href="https://blog.pragmaticengineer.com/what-is-data-engineering/" target="_new">What is Data Engineering</a> <br />        
       </td>
 
       <td>
