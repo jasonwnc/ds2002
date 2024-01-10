@@ -37,7 +37,7 @@ Python Support Hours are an optional resource for students to attend for help in
 
 ## Reference Materials
 
-- [Git / GitHub Reference Cheatsheet](https://canvas.its.virginia.edu/courses/78571/files?preview=2505213)
-- [Jupyter Notebook Cheatsheet](https://canvas.its.virginia.edu/courses/78571/files?preview=2505502)
-- [Pandas Cheatsheet](https://canvas.its.virginia.edu/files/5867041/download?download_frd=1)
-- [NumPy Cheatsheet](https://canvas.its.virginia.edu/files/5867041/download?download_frd=1)
+- [Git / GitHub Reference Cheatsheet]
+- [Jupyter Notebook Cheatsheet](https://canvas.its.virginia.edu/courses/95426/files?preview=5867041)
+- [Pandas Cheatsheet](https://canvas.its.virginia.edu/courses/95426/files?preview=5867040)
+- [NumPy Cheatsheet](https://canvas.its.virginia.edu/courses/95426/files?preview=5867039)
