@@ -2,7 +2,6 @@
 title: Schedule
 layout: default
 nav_order: 2
-last_modified_date: 2021-08-10 09:37:00 -0400
 ---
 
 # Schedule
