@@ -104,8 +104,8 @@ nav_order: 2
     </tr>
     <tr>
       <td>10</td>
-      <td>325 - 3/29</td>
-      <td class="noclass">No Class - Reading Days</td>
+      <td>3/25 - 3/29</td>
+      
       <td> </td>
     </tr>
     <tr>
