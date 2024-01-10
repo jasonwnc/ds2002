@@ -59,7 +59,7 @@ nav_order: 2
     <tr>
       <td>04</td>
       <td>2/5 - 2/9</td>
-      <td class="noclass">No Class</td>
+      <td></td>
     </tr>
     <tr>
       <td>05</td>
@@ -105,7 +105,6 @@ nav_order: 2
     <tr>
       <td>10</td>
       <td>3/25 - 3/29</td>
-      
       <td> </td>
     </tr>
     <tr>
@@ -127,7 +126,7 @@ nav_order: 2
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>4/15 - 4/19</td>
       <td>Python: Functions</td>
       <td>
@@ -136,7 +135,7 @@ nav_order: 2
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>4/22 - 4/26</td>
       <td>Python: Functions & Classes</td>
       <td>
@@ -145,7 +144,7 @@ nav_order: 2
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>4/29</td>
       <td>Python: Recursion & Error Handling </td>
       <td>
@@ -154,7 +153,7 @@ nav_order: 2
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>5/6</td>
       <td>Final Project Due</td>
       <td>
