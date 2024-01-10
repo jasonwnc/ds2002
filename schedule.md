@@ -35,9 +35,7 @@ nav_order: 2
       <td>Course introduction, Concepts & Requirements</td>
       <td>
         <img src="./images/video.png" /> <a href="https://uvadatapoints.castos.com/episodes/4-1-model-of-data-science" target="_new">Listen: 4+1 Model of Data Science</a> <br />
-      </td>
-       <td>
-              <img src="./images/video.png" /> <a href="https://www.youtube.com/watch?v=inN8seMm7UI" target="_new">Getting Started with Google Colaboratory</a> <br />
+     <img src="./images/video.png" /> <a href="https://www.youtube.com/watch?v=inN8seMm7UI" target="_new">Getting Started with Google Colaboratory</a> <br />
       </td>
     </tr>
     <tr>
