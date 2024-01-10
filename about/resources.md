@@ -20,7 +20,9 @@ Our textbooks are available for free through O'Reilly Media. You'll need to <a h
 
 - **[PDA] Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, 3rd ed.** McKinney. O'Reilly Media 2022 / ISBN: 978-1-4919-5766-0 [https://learning.oreilly.com/library/view/python-for-data/9781098104023/](https://learning.oreilly.com/library/view/python-for-data/9781098104023/)
 - **[PN] Python in a Nutshell: A Desktop Quick Reference, 4th ed.** Martelli, Ravenscroft, et al. O'Reilly Media 2023 / ISBN: 978-1-098-11355-1 [https://learning.oreilly.com/library/view/python-in-a/9781098113544/](https://learning.oreilly.com/library/view/python-in-a/9781098113544/)
-- **[MY] Learning MySQL and MariaDB.** RDyer,Russell  O'Reilly Media 2015 / ISBN: 978-1-449362898 (https://learning.oreilly.com/library/view/learning-mysql-and/9781449362898/)
+- **[SQL] Learning MySQL and MariaDB.** RDyer,Russell  O'Reilly Media 2015 / ISBN: 978-1-449362898 (https://learning.oreilly.com/library/view/learning-mysql-and/9781449362898/)
+- **[MO] MongoDB: The Definitive Guide, 3rd Edition.**  Shannon Bradshaw, Eoin Brazil, Kristina Chodorow  O'Reilly Media 2019 / ISBN: 9781491954454 (https://learning.oreilly.com/library/view/mongodb-the-definitive/9781491954454/)
+
 
 
 
