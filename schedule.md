@@ -53,7 +53,7 @@ nav_order: 2
       <td>03</td>
       <td>1/29 - 2/02</td>
       <td>Intro to Databases, Design of Relational Databases</td>
-      <td rowspan=2>
+      <td>
 
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
