@@ -138,7 +138,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
     </tr>
     <tr>
       <td>13</td>
-      <td>4/22 - </td>
+      <td>4/22 - 4/26</td>
       <td>Python: Functions & Classes</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
@@ -146,8 +146,8 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       </td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>10/30 - 11/3</td>
+      <td>14</td>
+      <td>4/29</td>
       <td>Python: Recursion & Error Handling </td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
@@ -155,51 +155,14 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       </td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>11/6 - 11/10</td>
-      <td>Python: Review</td>
-      <td>
-        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
-        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>11/13 - 11/17</td>
-      <td>R: Introduction</td>
-      <td>
-        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
-        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>11/20</td>
-      <td>R: Analyzing Data</td>
-      <td>
-        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
-        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>11/22 - 11/26</td>
-      <td colspan=2 class="noclass">No Class - Thanksgiving Break</td>
-    </tr>
-    <tr>
       <td>15</td>
-      <td>11/27 - 12/1</td>
-      <td class="noclass">No In-Person Class - Online<br /><span style="font-weight:normal;">R: Analyzing Data</span></td>
+      <td>5/6</td>
+      <td>Final Project Due</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
     </tr>
-    <tr>
-      <td>16</td>
-      <td>12/4</td>
-      <td>Final Class - Wrap Up</td>
-      <td></td>
-    </tr>
+  
   </tbody>
 </table>
