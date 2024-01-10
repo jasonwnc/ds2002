@@ -32,24 +32,24 @@ last_modified_date: 2021-08-10 09:37:00 -0400
     </tr>
     <tr>
       <td>01</td>
-      <td>8/23</td>
+      <td>1/17</td>
       <td>Course introduction, Concepts & Requirements</td>
       <td>
         <img src="./images/video.png" /> <a href="https://uvadatapoints.castos.com/episodes/4-1-model-of-data-science" target="_new">Listen: 4+1 Model of Data Science</a> <br />
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td>8/25</td>
-      <td>Getting Set Up</td>
+      <td>02</td>
+      <td>1/22-1/26</td>
+      <td>Course introduction: Data Engineering Basics & Getting Set Up</td>
       <td>
         <img src="./images/video.png" /> <a href="https://www.youtube.com/watch?v=inN8seMm7UI" target="_new">Getting Started with Google Colaboratory</a> <br />
       </td>
     </tr>
     <tr>
-      <td>02</td>
-      <td>8/28 - 8/30</td>
-      <td>Git & GitHub: Source Control Management</td>
+      <td>03</td>
+      <td>1/29 - 2/02</td>
+      <td>Intro to Databases, Design of Relational Databases</td>
       <td rowspan=2>
         <img src="./images/book.png" /> <a href="https://canvas.its.virginia.edu/courses/78571/files/2755956?module_item_id=844323" target="_new">Why & How - Git & GitHub</a> <br />
         <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/78571/assignments/333001" target="_new">Homework - GitHub Account</a> <br />
@@ -58,18 +58,18 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td>9/01</td>
+      <td>04</td>
+      <td>2/5 - 2/9</td>
       <td class="noclass">No Class</td>
     </tr>
     <tr>
-      <td>03</td>
-      <td>9/04</td>
+      <td>05</td>
+      <td>2/19 - 2/23</td>
       <td class="noclass" colspan=2>No Class - Labor Day</td>
     </tr>
     <tr>
-      <td></td>
-      <td>9/06 - 9/08</td>
+      <td>06</td>
+      <td>2/26 - 3/01</td>
       <td>Python: Introduction</td>
       <td>
         <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch01.html" target="_new">[PDA] Chapter 1: Preliminaries</a> <br />
@@ -79,20 +79,13 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       </td>
     </tr>
     <tr>
-      <td>04</td>
-      <td>9/11 - 9/15</td>
-      <td>Python: NumPy</td>
-      <td>
-        <img src="./images/book.png" /> <a href="https://docs.python.org/3/tutorial/datastructures.html" target="_new">Python Data Structures</a> <br />
-        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-in-a/9781098113544/ch03.html#data_types" target="_new">[PN] Chapter 3: Data Types</a> <br />
-        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch04.html" target="_new">[PDA] Chapter 4: NumPy Basics</a> <br />
-        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
-        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
-      </td>
+      <td>07</td>
+      <td>3/4 - 3/8</td>
+      <td class="noclass" colspan=2>No Class - Spring Break</td>
     </tr>
     <tr>
-      <td>05</td>
-      <td>9/18 - 9/22</td>
+      <td>08</td>
+      <td>3/11 - 3/15</td>
       <td>Python: Pandas</td>
       <td>
         <img src="./images/video.png" /> <a href="https://www.youtube.com/watch?v=KHoEbRH46Zk" target="_new">NumPy vs. Pandas</a> <br />
@@ -102,42 +95,9 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       </td>
     </tr>
     <tr>
-      <td>06</td>
-      <td>9/25 - 9/29</td>
-      <td>Python: Pandas</td>
-      <td>
-        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
-        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
-      </td>
-    </tr>
-    <tr>
-      <td>07</td>
-      <td>10/02</td>
-      <td class="noclass">No Class - Reading Days</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>10/04 - 10/06</td>
-      <td>Python: Pandas</td>
-      <td>
-        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
-        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
-      </td>
-    </tr>
-    <tr>
-      <td>08</td>
-      <td>10/09 - 10/13</td>
-      <td>Python: Comprehensions & Comparisons</td>
-      <td>
-        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
-        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
-      </td>
-    </tr>
-    <tr>
       <td>09</td>
-      <td>10/16 - 10/20</td>
-      <td>Python: Functions</td>
+      <td>3/18 - 3/22</td>
+      <td>Python: Pandas</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
@@ -145,7 +105,40 @@ last_modified_date: 2021-08-10 09:37:00 -0400
     </tr>
     <tr>
       <td>10</td>
-      <td>10/23 - 10/27</td>
+      <td>325 - 3/29</td>
+      <td class="noclass">No Class - Reading Days</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>4/1 - 4/5</td>
+      <td>Python: Pandas</td>
+      <td>
+        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
+        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>4/08 - 4/12</td>
+      <td>Python: Comprehensions & Comparisons</td>
+      <td>
+        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
+        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>4/15 - 4/19</td>
+      <td>Python: Functions</td>
+      <td>
+        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
+        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>4/22 - </td>
       <td>Python: Functions & Classes</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
