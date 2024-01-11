@@ -82,7 +82,7 @@ nav_order: 2
     <tr>
       <td>06</td>
       <td>2/26 - 3/01</td>
-      <td>ETL</td>
+      <td>PANDAS, JSON and CSV</td>
       <td>
         <img src="./images/book.png" /> <a href="https://blog.pragmaticengineer.com/what-is-data-engineering/" target="_new">What is Data Engineering</a> <br />     
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
@@ -97,7 +97,7 @@ nav_order: 2
     <tr>
       <td>08</td>
       <td>3/11 - 3/15</td>
-      <td>APIs</td>
+      <td>Intro to Cloud</td>
       <td>
         <img src="./images/book.png" /> <a href="https://blog.pragmaticengineer.com/what-is-data-engineering/" target="_new">What is Data Engineering</a> <br />     
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
@@ -107,7 +107,7 @@ nav_order: 2
     <tr>
       <td>09</td>
       <td>3/18 - 3/22</td>
-      <td>Python: Pandas</td>
+      <td>APIs</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
@@ -121,7 +121,7 @@ nav_order: 2
     <tr>
       <td>11</td>
       <td>4/1 - 4/5</td>
-      <td>Python: Pandas</td>
+      <td>NoSQL/Mongo DB</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
@@ -130,7 +130,7 @@ nav_order: 2
     <tr>
       <td>12</td>
       <td>4/08 - 4/12</td>
-      <td>Python: Comprehensions & Comparisons</td>
+      <td>Intro to Visualization Tools</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
@@ -139,7 +139,7 @@ nav_order: 2
     <tr>
       <td>13</td>
       <td>4/15 - 4/19</td>
-      <td>Python: Functions</td>
+      <td>Sage Maker Intro</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
@@ -148,7 +148,7 @@ nav_order: 2
     <tr>
       <td>14</td>
       <td>4/22 - 4/26</td>
-      <td>Python: Functions & Classes</td>
+      <td>Brining It all Together</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
@@ -157,7 +157,7 @@ nav_order: 2
     <tr>
       <td>15</td>
       <td>4/29</td>
-      <td>Python: Recursion & Error Handling </td>
+      <td>Project Work</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
