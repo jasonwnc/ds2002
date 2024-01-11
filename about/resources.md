@@ -23,7 +23,10 @@ Our textbooks are available for free through O'Reilly Media. You'll need to <a h
 - **[SQL] Learning MySQL and MariaDB.** RDyer,Russell  O'Reilly Media 2015 / ISBN: 978-1-449362898 [(https://learning.oreilly.com/library/view/learning-mysql-and/9781449362898/)] (https://learning.oreilly.com/library/view/learning-mysql-and/9781449362898/)
 - **[MO] MongoDB: The Definitive Guide, 3rd Edition.**  Shannon Bradshaw, Eoin Brazil, Kristina Chodorow  O'Reilly Media 2019 / ISBN: 9781491954454 [(https://learning.oreilly.com/library/view/mongodb-the-definitive/9781491954454/)](https://learning.oreilly.com/library/view/mongodb-the-definitive/9781491954454/)
 
+## Harvard Coursepack
 
+We will have one required case study as a part of this class which will have a cost (~$5.00). You can register and download your case here
+- **[WAR] Data Science at the Warriors.** Bojinov & Parzen, Harvard Busniess publishing [(https://hbsp.harvard.edu/import/1135617]) https://hbsp.harvard.edu/import/1135617)
 
 
 ## Online Resources
