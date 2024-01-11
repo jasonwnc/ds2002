@@ -46,7 +46,8 @@ nav_order: 2
       <td>1/22-1/26</td>
       <td>Course introduction: Data Engineering Basics & Getting Set Up</td>
       <td>
-        <img src="./images/book.png" /> <a href="https://blog.pragmaticengineer.com/what-is-data-engineering/" target="_new">What is Data Engineering</a> <br />        
+        <img src="./images/book.png" /> <a href="https://blog.pragmaticengineer.com/what-is-data-engineering/" target="_new">What is Data Engineering</a> <br />
+        <img src="./images/book.png" /> <a href="(https://hbsp.harvard.edu/import/1135617)" target="_new">Data Science at the Warriors</a> <br />
       </td>
     </tr>
     <tr>
