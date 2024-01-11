@@ -16,9 +16,10 @@ Grading is by a ten-point scale:
 
 | Assessment | Weight |
 |:-----------|:-------|
-| **Weekly homework** - Homework is practice, and will consist of hands-on, practical material that implement the week's programming concepts. These are to be completed out of class, before 11:59pm Friday of the week they are assigned. Weekly homework must be completed individually or in groups. You will receive a graded response to your homework, but homework is counted as a completion grade for the course. | 50%    |
-| **Weekly quizzes** - At the end of most weeks, students will answer a brief set of questions about the material covered in the week's lectures, exercises, and associated readings. These are to be completed out of class, before 11:59pm the Sunday  after the week they are assigned. | 40%    |
-| **Labs** - In addition to the assigned material in preparation for lectures, students are expected to complete individual or group exercises related to the concepts taught in class. Beyond reinforcing foundational knowledge, these activities involve creative or practical thinking through (1) peer instruction/problem solving (e.g., specifying and implementing filters) and (2) strategic problem solving (e.g., designing multi-stage systems). These exercises can only be completed during class.  | 10%    |
+| **Weekly homework** - Weekly homework will be a reflection, writing, codeing, etc based on the conecpts for the week. Weekly homework must be completed individually or in groups. You will receive a graded response to your homework. Due dates will *usually* be the following Sunday before 11:59pm from when it was assigned. | 50%    |
+| **Weekly quizzes** - At the end of most weeks, students will answer a brief set of questions about the material covered in the week's lectures, exercises, and associated readings. These are to be completed out of class, before 11:59pm the Sunday  after the week they are assigned. | 20%    |
+| **Labs** - In addition to the assigned material in preparation for lectures, students are expected to complete individual or group exercises related to the concepts taught in class. Beyond reinforcing foundational knowledge, these activities involve creative or practical thinking through (1) peer instruction/problem solving (e.g., specifying and implementing filters) and (2) strategic problem solving (e.g., designing multi-stage systems). These exercises are designed to be done during the Friday Hands-On Lab days.  | 10%    |
+| **Project** - There will be a project assigned at the end of the semester bringing several concepts together. That will be done in groups or individually. It will be due before May 6th at 11:59pm | 20%    |
 
 There will be no mid-term or final exams in this course.
 
