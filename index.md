@@ -18,7 +18,7 @@ This course will center on exposing students to contemporary pipelines for data 
 
 ### Class Meetings
 
-- Times: Monday / Wednesday 2:00 AM to 2:50 AM Friday is Lab Day
+- Times: Monday / Wednesday 2:00 PM to 2:50 PM Friday is Lab Day
 - Location: [Dell 105](https://atlas.fm.virginia.edu/portal/apps/webappviewer/index.html?id=c54aefa568904e018601a0447eb722bf&marker=-78.51000841727834%2C38.03486767781649%2C%2C%2C%2C&markertemplate=%7B%22title%22%3A%22Dell%20Building%20%231%20%22%2C%22longitude%22%3A-78.51000841727834%2C%22latitude%22%3A38.03486767781649%2C%22isIncludeShareUrl%22%3Atrue%7D&level=18)
 - Dates: August 23, 2023 — December 4, 2023
 
