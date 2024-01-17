@@ -36,7 +36,7 @@ nav_order: 2
       <td>
         <img src="./images/video.png" /> <a href="https://uvadatapoints.castos.com/episodes/4-1-model-of-data-science" target="_new">Listen: 4+1 Model of Data Science</a> <br />
         <img src="./images/video.png" /> <a href="https://www.youtube.com/watch?v=inN8seMm7UI" target="_new">Getting Started with Google Colaboratory</a> <br />
-        <img src="./images/homework.png" /> <a href="" target="_new">Homework - GitHub Account and Tutorial</a> <br />
+        <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/assignments/450753" target="_new">Homework - GitHub Account and Tutorial</a> <br />
       </td>
     </tr>
     <tr>
