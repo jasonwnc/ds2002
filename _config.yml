@@ -13,8 +13,11 @@ nav_external_links:
     url: https://colab.research.google.com/
   - title: DS2002 MySql Instance
     url: https://database.ds2002.org/
-    
+  - title: DS2002 Class Repo
+    url: https://github.com/jasonwnc/ds2002s24
 
+    
+    
 callouts_level: quiet # or loud
 callouts:
   highlight:
