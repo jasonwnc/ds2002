@@ -55,7 +55,7 @@ nav_order: 2
       <td>1/29 - 2/02</td>
       <td>Intro to Databases, Design of Relational Databases</td>
       <td>
-        <img src="./images/book.png" /> <a href="https://blog.pragmaticengineer.com/what-is-data-engineering/" target="_new">What is Data Engineering</a> <br />     
+        <img src="./images/book.png" /> <a href="https://www.oreilly.com/library/view/learning-mysql-and/9781449362898//" target="_new">SQL Book Chapters 3-5 Intro to Databases</a> <br />     
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
@@ -65,7 +65,7 @@ nav_order: 2
       <td>2/5 - 2/9</td>
       <td>More SQL</td>
       <td>
-        <img src="./images/book.png" /> <a href="https://blog.pragmaticengineer.com/what-is-data-engineering/" target="_new">What is Data Engineering</a> <br />     
+        <img src="./images/book.png" /> <img src="./images/book.png" /> <a href="https://www.oreilly.com/library/view/learning-mysql-and/9781449362898//" target="_new">SQL Book Chapters 6-8 Manupulating Data</a> <br />     
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
