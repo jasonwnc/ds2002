@@ -58,7 +58,7 @@ nav_order: 2
         <img src="./images/book.png" /> <a href="https://www.oreilly.com/library/view/learning-mysql-and/9781449362898//" target="_new">SQL Book Chapters 3-5 Intro to Databases</a> <br />     
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/assignments/459280" target="_new">Lab 2 - SQL Lab 1</a> <br />
-        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
+        <img src="./images/writing.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/quizzes/120024">Weekly Quiz</a> <br />
       </td>
     </tr>
     <tr>
