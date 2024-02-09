@@ -67,8 +67,7 @@ nav_order: 2
       <td>More SQL</td>
       <td>
         <img src="./images/book.png" /> <img src="./images/book.png" /> <a href="https://www.oreilly.com/library/view/learning-mysql-and/9781449362898//" target="_new">SQL Book Chapters 6-8 Manupulating Data</a> <br />     
-        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
-        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
+        <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/assignments/462175" target="_new">Homework</a> <br />
       </td>
     </tr>
     <tr>
@@ -76,7 +75,7 @@ nav_order: 2
       <td>2/19 - 2/23</td>
       <td >Python and Data Wrangling</td>
       <td>
-        <img src="./images/book.png" /> <a href="https://blog.pragmaticengineer.com/what-is-data-engineering/" target="_new">What is Data Engineering</a> <br />     
+        <img src="./images/book.png" /> Data Loading, Storage, and File Formats Chapter 6 of Python for Data Analysis, 3rd Edition <br />     
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
