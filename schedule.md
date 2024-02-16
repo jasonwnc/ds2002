@@ -78,7 +78,6 @@ nav_order: 2
         <img src="./images/book.png" /> Data Loading, Storage, and File Formats Chapter 6 of Python for Data Analysis, 3rd Edition <br />     
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/assignments/465408" target="_new">Lab 3 JSON and Pandas</a> <br />
-        
       </td>
     </tr>
     <tr>
