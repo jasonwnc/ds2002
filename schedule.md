@@ -76,8 +76,8 @@ nav_order: 2
       <td >Python and Data Wrangling</td>
       <td>
         <img src="./images/book.png" /> Data Loading, Storage, and File Formats Chapter 6 of Python for Data Analysis, 3rd Edition <br />     
-        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
-        <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/assignments/465408" target="_new">Lab 3 JSON and Pandas</a> <br />
+        <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/assignments/465417" target="_new">Homework NEW</NEW></a> <br />
+        <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/assignments/465408" target="_new">Lab 3 JSON and Pandas NEW </a> <br />
       </td>
     </tr>
     <tr>
@@ -85,7 +85,7 @@ nav_order: 2
       <td>2/26 - 3/01</td>
       <td>PANDAS, JSON and CSV</td>
       <td>
-        <img src="./images/book.png" /> <a href="https://blog.pragmaticengineer.com/what-is-data-engineering/" target="_new">What is Data Engineering</a> <br />     
+        <img src="./images/book.png" /> <a href="https://medium.com/@jesus.cantu217/a-beginners-guide-to-etl-with-python-74d8063d7266" target="_new">ETL Extract Transform and Load NEW </a> <br />     
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
