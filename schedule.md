@@ -83,7 +83,7 @@ nav_order: 2
     <tr>
       <td>06</td>
       <td>2/26 - 3/01</td>
-      <td>PANDAS, JSON and CSV</td>
+      <td>ETL and working in Python</td>
       <td>
         <img src="./images/book.png" /> <a href="https://medium.com/@jesus.cantu217/a-beginners-guide-to-etl-with-python-74d8063d7266" target="_new">ETL Extract Transform and Load NEW </a> <br />     
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
