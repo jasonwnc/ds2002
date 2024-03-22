@@ -125,7 +125,7 @@ nav_order: 2
       <td>NoSQL/Mongo DB</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
-        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
+        <img src="./images/writing.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/assignments/478052">Lab Assignment NEW! </a> <br />
       </td>
     </tr>
     <tr>
