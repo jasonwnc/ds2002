@@ -133,8 +133,7 @@ nav_order: 2
       <td>4/08 - 4/12</td>
       <td>Chat Bots and Discord w/ GPTs</td>
       <td>
-        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
-        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
+         <br />
       </td>
     </tr>
     <tr>
@@ -142,8 +141,7 @@ nav_order: 2
       <td>4/15 - 4/19</td>
       <td>Viz tools w/ Python</td>
       <td>
-        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
-        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
+       <br />
       </td>
     </tr>
     <tr>
@@ -151,8 +149,7 @@ nav_order: 2
       <td>4/22 - 4/26</td>
       <td>Brining It all Together</td>
       <td>
-        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
-        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
+        <br />
       </td>
     </tr>
     <tr>
@@ -160,8 +157,7 @@ nav_order: 2
       <td>4/29</td>
       <td>Project Work</td>
       <td>
-        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
-        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
+       <br />
       </td>
     </tr>
     <tr>
@@ -169,8 +165,7 @@ nav_order: 2
       <td>5/6</td>
       <td>Final Project Due</td>
       <td>
-        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
-        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
+        <br />
       </td>
     </tr>
   
