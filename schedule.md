@@ -122,7 +122,7 @@ nav_order: 2
     <tr>
       <td>11</td>
       <td>4/1 - 4/5</td>
-      <td>NoSQL/Mongo DB</td>
+      <td>Chat Bots and Discord w/ GPT</td>
       <td>
         <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/assignments/478132" target="_new">Data Project Due 4-3</a> <br />
         <img src="./images/writing.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/assignments/478052">Lab Assignment NEW! </a> <br />
@@ -131,7 +131,7 @@ nav_order: 2
     <tr>
       <td>12</td>
       <td>4/08 - 4/12</td>
-      <td>Intro to Visualization Tools</td>
+      <td>Chat Bots and Discord w/ GPTs</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
@@ -140,7 +140,7 @@ nav_order: 2
     <tr>
       <td>13</td>
       <td>4/15 - 4/19</td>
-      <td>Sage Maker Intro</td>
+      <td>Viz tools w/ Python</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
