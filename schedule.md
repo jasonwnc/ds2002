@@ -125,17 +125,15 @@ nav_order: 2
       <td>Chat Bots </td>
       <td>
         <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/assignments/478132" target="_new">Data Project Due 4-6 Midnight</a> <br />
- <br />
-        <img src="./images/book.png" /> <a href="https://www.datacamp.com/tutorial/building-a-chatbot-using-chatterbot" target="_new">Buildng Chatbots with Chtterbox</a> 
-       
-      </td>  
+ <br /><img src="./images/book.png" /> <a href="https://www.datacamp.com/tutorial/building-a-chatbot-using-chatterbot" target="_new">Buildng Chatbots with Chatterbot</a> 
+       </td>  
     </tr>
     <tr>
       <td>12</td>
       <td>4/08 - 4/12</td>
       <td>Chat Bots and Discord w/ GPTs</td>
       <td>
-         <img src="./images/homework.png" /> <a href=" https://canvas.its.virginia.edu/courses/95426/assignments/481098" target="_new">Chatbot Homework Due 3/10</a> <br /><br />
+         <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/assignments/481098" target="_new">Chatbot Homework Due 3/10</a> <br /><br />
       </td>
     </tr>
     <tr>
