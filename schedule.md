@@ -125,7 +125,7 @@ nav_order: 2
       <td>Chat Bots </td>
       <td>
         <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/assignments/478132" target="_new">Data Project Due 4-6 Midnight</a> <br />
- <br /><img src="./images/book.png" /> <a href="https://towardsdatascience.com/building-a-chatbot-with-rasa-3f03ecc5b324" target="_new">Buildng Chatbots with Rasa</a> 
+ <br /><img src="./images/book.png" /> <a href="https://handsonai.medium.com/build-a-chat-bot-from-scratch-using-python-and-tensorflow-fd189bcfae45" target="_new">Buildng Chatbots with TF</a> 
        </td>  
     </tr>
     <tr>
