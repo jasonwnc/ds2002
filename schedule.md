@@ -125,7 +125,7 @@ nav_order: 2
       <td>Chat Bots and Discord w/ GPT</td>
       <td>
         <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/assignments/478132" target="_new">Data Project Due 4-6 Midnight</a> <br />
-        <img src="./images/writing.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/assignments/478052">Lab Assignment NEW! </a> <br />
+ <br />
       </td>  
     </tr>
     <tr>
