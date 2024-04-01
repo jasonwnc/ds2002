@@ -124,9 +124,9 @@ nav_order: 2
       <td>4/1 - 4/5</td>
       <td>Chat Bots and Discord w/ GPT</td>
       <td>
-        <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/assignments/478132" target="_new">Data Project Due 4-3</a> <br />
+        <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/assignments/478132" target="_new">Data Project Due 4-6 Midnight</a> <br />
         <img src="./images/writing.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/assignments/478052">Lab Assignment NEW! </a> <br />
-      </td>
+      </td>  
     </tr>
     <tr>
       <td>12</td>
