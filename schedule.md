@@ -122,7 +122,7 @@ nav_order: 2
     <tr>
       <td>11</td>
       <td>4/1 - 4/5</td>
-      <td>Chat Bots and Discord w/ GPT</td>
+      <td>Chat Bots </td>
       <td>
         <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/assignments/478132" target="_new">Data Project Due 4-6 Midnight</a> <br />
  <br />
