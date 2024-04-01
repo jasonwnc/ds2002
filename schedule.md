@@ -126,6 +126,7 @@ nav_order: 2
       <td>
         <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/assignments/478132" target="_new">Data Project Due 4-6 Midnight</a> <br />
  <br />
+        <img src="./images/book.png" /> <a href="https://www.datacamp.com/tutorial/building-a-chatbot-using-chatterbot" target="_new">Buildng Chatbots with Chtterbox</a> 
       </td>  
     </tr>
     <tr>
