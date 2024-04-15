@@ -140,7 +140,7 @@ nav_order: 2
       <td>13</td>
       <td>4/15 - 4/19</td>
       <td>Viz tools w/ Python</td>
-      <td>https://canvas.its.virginia.edu/courses/95426/assignments/485533
+      <td> <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/95426/assignments/485533target="_new">Viz Homework new </a>
        <br />
       </td>
     </tr>
@@ -162,7 +162,7 @@ nav_order: 2
     </tr>
     <tr>
       <td>16</td>
-      <td>5/6</td>
+      <td>5/10</td>
       <td>Final Project Due</td>
       <td>
         <br />
