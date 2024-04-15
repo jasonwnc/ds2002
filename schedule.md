@@ -140,7 +140,7 @@ nav_order: 2
       <td>13</td>
       <td>4/15 - 4/19</td>
       <td>Viz tools w/ Python</td>
-      <td>
+      <td>https://canvas.its.virginia.edu/courses/95426/assignments/485533
        <br />
       </td>
     </tr>
